@@ -5,7 +5,7 @@ public class GitPractice1 {
 	{
 		// TODO Auto-generated method stub
 		
-		System.out.println("hello this is my first practice for Git and Git Hub..."); //second changes 
+		System.out.println("hello this is my first practice for Git and Git Hub...neee "); //second changes 
 		
 
 	}
